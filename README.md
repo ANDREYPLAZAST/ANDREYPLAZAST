@@ -22,6 +22,20 @@ Estoy siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer 
 
 ---
 
+## 📊 Mis estadísticas de GitHub
+
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreyplazas77&show_icons=true&theme=radical)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyplazas77&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Mis contribuciones recientes
+
+![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreyplazas77&theme=radical)
+
+---
+
 ## 📫 Contacto
 
 Si quieres conectar o colaborar, escríbeme a:  
