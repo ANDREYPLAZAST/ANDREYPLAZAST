@@ -12,6 +12,26 @@ Siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer soluci
 
 ---
 
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANDREYPLAZAST&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREYPLAZAST&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREYPLAZAST&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANDREYPLAZAST&theme=radical)
+
+---
+
 ## 🔧 Herramientas y Tecnologías
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -23,20 +43,6 @@ Siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer soluci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
-
-## 📊 Mis estadísticas de GitHub
-
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREYPLAZAST&show_icons=true&theme=radical)  
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREYPLAZAST&layout=compact&theme=radical)  
-
----
-
-## 🛠️ Mis contribuciones recientes
-
-![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreplazast&theme=radical)
 
 ---
 
