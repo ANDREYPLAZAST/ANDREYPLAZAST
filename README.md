@@ -28,9 +28,9 @@ Siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer soluci
 
 ## 📊 Mis estadísticas de GitHub
 
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreplazast&show_icons=true&theme=radical)  
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREYPLAZAST&show_icons=true&theme=radical)  
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=andreplazast&layout=compact&theme=radical)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREYPLAZAST&layout=compact&theme=radical)  
 
 ---
 
