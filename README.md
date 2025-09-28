@@ -6,7 +6,7 @@ Soy un desarrollador **Frontend** y **Fullstack** apasionado por crear aplicacio
 - ⚛️ **React**  
 - ⚡ **Next.js**  
 - 💻 **TypeScript**  
-- 🗄️ Bases de datos: **MongoDB** y **Supabase**  
+- 🗄️ Bases de datos: **MongoDB** - **Supabase**  
 
 Siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer soluciones eficientes y elegantes.
 
