@@ -1,5 +1,4 @@
 # ¡Hola! 👋 Soy Andrey Steven Plazas Torres.
-.
 ## 🚀 Sobre mí
 Soy un desarrollador **Frontend** y **Fullstack** apasionado por crear aplicaciones web rápidas, modernas y escalables. Me especializo en:
 
