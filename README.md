@@ -1,55 +1,40 @@
-# ¡Hola! 👋 Soy Andrey Steven Plazas Torres
-# 🚀 Sobre mí.
-Soy un desarrollador **Frontend** y **Fullstack** apasionado por crear aplicaciones web rápidas, modernas y escalables. Me especializo en:
-..
-- ⚛️ **React**  
-- ⚡ **Next.js**  
-- 💻 **TypeScript**  
-- 🗄️ Bases de datos: **MongoDB** - **Supabase**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Andrey Steven Plazas Torres. Full Stack and AI Product Engineer. Bogotá, Colombia." src="assets/banner-light.svg" width="720">
+</picture>
 
-Siempre aprendiendo nuevas tecnologías y mejores prácticas para ofrecer soluciones eficientes y elegantes.
+I build AI powered SaaS that real customers use every day, from the database to the last pixel and all the way to production. Lead engineer of [EZDocuAI](https://www.ezdocu.ai) and cofounder at [Lumintik](https://www.lumintik.com). I work with Claude Code every day.
 
----
+**Top 10 in Colombia by GitHub contributions.** 12,767 in the last 12 months, which would rank **#7 in Colombia** by the numbers of [committers.top](https://committers.top/colombia_private) (public + private list, Oct 16, 2026).
 
-## 🏆 GitHub Trophy
+**Work, discipline and consistency:** contributions on **358 of 368 days** and in **every single week** of the year. Longest streak: 90 days.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ANDREYPLAZAST&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[Email](mailto:andreyplazas77@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/andrey-steven-plazas-torres-4b8279192/)
 
----
+<img src="https://streak-stats.demolab.com/?user=ANDREYPLAZAST&theme=default&hide_border=true" alt="GitHub streak of Andrey Steven Plazas Torres" height="150">
 
-## 📊 GitHub Stats
+### Selected work
 
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDREYPLAZAST&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+**[EZDocuAI](https://www.ezdocu.ai)** &nbsp;🇺🇸 🇨🇴  
+AI workspace for translating and laying out official documents, used by translation agencies and sworn translators. Scanned and digital documents come out translated in Word, PDF and HTML, keeping the original layout or a jurisdiction format (Spain, Peru, Argentina, US pleading paper). Public REST API, a format library, and term sets that learn from each translator's own past translations.
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREYPLAZAST&layout=compact&theme=radical)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,postgres,aws,docker&theme=light" height="36" alt="Next.js, React, TypeScript, NestJS, PostgreSQL, AWS, Docker">&nbsp; Claude · Gemini · Textract · Document AI · DeepL · OnlyOffice · Stripe · PostHog · Railway · Vercel
 
----
+**[Lumintik](https://www.lumintik.com)** &nbsp;🇨🇴 🇲🇽 🇺🇸  
+Software studio shipping web, mobile and AI products for clients in Colombia, Mexico and the United States: CRMs, WhatsApp automation and social commerce pipelines.
 
-## 🔥 GitHub Streak
+<img src="https://skillicons.dev/icons?i=nextjs,ts,nestjs,postgres,redis,docker&theme=light" height="36" alt="Next.js, TypeScript, NestJS, PostgreSQL, Redis, Docker">&nbsp; Kong · WebSockets
 
-![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANDREYPLAZAST&theme=radical)
+**Fridoom** &nbsp;🇨🇴  
+Colombian personal finance app to track net worth and investments, with its own landing site.
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs&theme=light" height="36" alt="React Native, TypeScript, Next.js">&nbsp; Expo
 
-## 🔧 Herramientas y Tecnologías.
+**FUTTEM** &nbsp;🇨🇴  
+Amateur football community app in Bogotá: games, payments and attendance for players and field owners.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+### Stack
 
----
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,python,postgres,mongodb,redis,supabase,aws,gcp,docker,vercel,git,github&perline=9&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, NestJS, Python, PostgreSQL, MongoDB, Redis, Supabase, AWS, Google Cloud, Docker, Vercel, Git, GitHub">
 
-## 📫 Contacto
-
-Si quieres conectar o colaborar, puedes escribirme:  
-📩 [andreyplazas77@gmail.com](mailto:andreyplazas77@gmail.com)
-
----
-
-¡Gracias por visitar mi perfil! 🚀
+**AI:** Claude · Gemini · DeepL · Textract · Document AI
