@@ -11,7 +11,10 @@ I build AI powered SaaS that real customers use every day, from the database to 
 
 [Email](mailto:andreyplazas77@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/andrey-steven-plazas-torres-4b8279192/)
 
-<img src="https://streak-stats.demolab.com/?user=ANDREYPLAZAST&theme=default&hide_border=true" alt="GitHub streak of Andrey Steven Plazas Torres" height="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ANDREYPLAZAST&theme=dark&hide_border=true&background=0D1117">
+  <img src="https://streak-stats.demolab.com/?user=ANDREYPLAZAST&theme=default&hide_border=true" alt="GitHub streak of Andrey Steven Plazas Torres" height="150">
+</picture>
 
 ### Selected work
 
