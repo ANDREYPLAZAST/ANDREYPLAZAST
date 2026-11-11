@@ -90,7 +90,6 @@ Personal finance app that organizes net worth and investments in one place, with
 Software studio: infrastructure, applied AI and automation for clients in Colombia, Mexico and the United States.  
 [lumintik.com](https://www.lumintik.com)
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,nestjs,postgres,redis,docker&theme=light" height="32" alt="Lumintik stack">&nbsp; Kong · WebSockets
 
 <br clear="right">
 <br>
