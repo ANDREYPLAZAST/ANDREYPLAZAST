@@ -84,7 +84,7 @@ Personal finance app that organizes net worth and investments in one place, with
 <br clear="right">
 <br>
 
-<a href="https://www.lumintik.com"><img src="assets/work/lumintik.jpg" align="right" width="300" alt="Lumintik"></a>
+
 
 **[Lumintik](https://www.lumintik.com)** &nbsp;🇨🇴 🇲🇽 🇺🇸  
 Software studio: infrastructure, applied AI and automation for clients in Colombia, Mexico and the United States.  
@@ -95,4 +95,4 @@ Software studio: infrastructure, applied AI and automation for clients in Colomb
 <br>
 
 
-**AI:** Claude · Gemini · DeepL · Textract · Document AI
+
