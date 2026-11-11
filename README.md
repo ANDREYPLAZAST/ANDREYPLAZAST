@@ -95,8 +95,5 @@ Software studio: infrastructure, applied AI and automation for clients in Colomb
 <br clear="right">
 <br>
 
-### Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,python,postgres,mongodb,redis,supabase,aws,gcp,docker,vercel,git,github&perline=9&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, NestJS, Python, PostgreSQL, MongoDB, Redis, Supabase, AWS, Google Cloud, Docker, Vercel, Git, GitHub">
 
 **AI:** Claude · Gemini · DeepL · Textract · Document AI
